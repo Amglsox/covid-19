@@ -7,6 +7,12 @@ O projeto tem como objetivo realizar uma releitura dos dados divulgados pelo [Mi
 
 ![](arquitetura.png)
 
+# Captura de Telas do Relatório
+![](part1.png)
+![](part2.png)
+![](part3.png)
+
+
 ## Requisitos:
 - [Python 3.x](python-url)
 - [PostgreSQL](postgres-url)
