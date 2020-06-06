@@ -22,7 +22,7 @@ O projeto tem como objetivo realizar uma releitura dos dados divulgados pelo [Mi
 
 Lucas Mari – [@LHRM97](https://twitter.com/LHRM97) – lucashrm97@gmail.com
 
-[https://github.com/Amglsox](https://github.com/dbader/)
+[https://github.com/Amglsox](https://github.com/Amglsox/)
 
 <!-- Markdown link & img dfn's -->
 [python-image]: https://camo.githubusercontent.com/1ffe5b1d477c7a0a8c3a954048fb57d676ac1614/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f6b756265726e657465732e737667
