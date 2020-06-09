@@ -38,7 +38,7 @@ Lucas Mari – [@LHRM97](https://twitter.com/LHRM97) – lucashrm97@gmail.com
 [python-image]: https://camo.githubusercontent.com/1ffe5b1d477c7a0a8c3a954048fb57d676ac1614/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f6b756265726e657465732e737667
 [python-url]: https://www.python.org/
 [airflow-image]:https://camo.githubusercontent.com/a0f8662456135c05bf3117cb70a1aaa55c0d3604/687474703a2f2f696d672e736869656c64732e696f2f3a6c6963656e73652d417061636865253230322d626c75652e737667
-[airflow-url]:https://airflow.apache.org/
+[airflow-url]: https://airflow.apache.org/
 [postgres-url]: https://www.postgresql.org/
 [airflow-help]: http://edgeventures.com/kb/post/2018/10/26/setup-airflow-on-ubuntu-18
 [metabase-help]: https://www.cloudbooklet.com/install-metabase-on-google-cloud-with-docker-app-engine/
